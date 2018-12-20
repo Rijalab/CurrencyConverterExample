@@ -1,0 +1,21 @@
+PODS:
+  - CurrencyConversion (1.0.0)
+
+DEPENDENCIES:
+  - CurrencyConversion (from `https://github.com/Rijalab/CurrencyConverter.git`)
+
+EXTERNAL SOURCES:
+  CurrencyConversion:
+    :git: https://github.com/Rijalab/CurrencyConverter.git
+
+CHECKOUT OPTIONS:
+  CurrencyConversion:
+    :commit: b6e288737ccf9a5dddafdbecffcde516e88cc4ef
+    :git: https://github.com/Rijalab/CurrencyConverter.git
+
+SPEC CHECKSUMS:
+  CurrencyConversion: 6f486450b25d4e721c1bacc57a91dae27402c810
+
+PODFILE CHECKSUM: bf122b1b8dcb26ec5bc87678ceeed0c27bf2570a
+
+COCOAPODS: 1.5.3

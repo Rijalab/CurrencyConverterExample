@@ -1,0 +1,26 @@
+{
+  "name": "CurrencyConversion",
+  "version": "1.0.0",
+  "summary": "CurrencyConversion is for converting amt bw different currencies.",
+  "description": "Sample Pod for Currency Conversion.\nSample Pod for Currency Conversion.\nSample Pod for Currency Conversion.",
+  "homepage": "https://github.com/Rijalab/",
+  "license": "MIT",
+  "authors": {
+    "PrakashJagan": "prakash.orgware@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/Rijalab/CurrencyConverter.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}",
+    "Classes/**/*.{swift}",
+    "CurrencyConverter"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "swift_version": "4.2"
+}
